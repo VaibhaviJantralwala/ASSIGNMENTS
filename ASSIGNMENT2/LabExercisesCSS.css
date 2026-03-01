@@ -75,7 +75,7 @@ input, select, textarea {
     width:200px;
     border-radius: 50%;
     border:2px solid grey;
-    background-image: url(Assets/img.jpg);
+    background-image: url(../Assets/img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
